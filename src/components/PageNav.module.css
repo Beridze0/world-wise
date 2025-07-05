@@ -11,3 +11,29 @@
 .nav :global(.active) {
   background-color: green;
 }
+.nav {
+  background-color: orangered;
+}
+
+.nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav :global(.active) {
+  background-color: green;
+}
+.nav {
+  background-color: orangered;
+}
+
+.nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav :global(.active) {
+  background-color: green;
+}
