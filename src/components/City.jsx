@@ -1,4 +1,4 @@
-import { useParams } from "react-router-dom";
+import { useParams, useSearchParams } from "react-router-dom";
 //eslint-disable-next-line
 import styles from "./City.module.css";
 //eslint-disable-next-line
@@ -12,6 +12,10 @@ const formatDate = (date) =>
 
 function City() {
   const { id } = useParams();
+  //eslint-disable-next-line
+  const [searchParams, setSearchParams] = useSearchParams();
+  const lat = searchParams.get("lat");
+  const lng = searchParams.get("lng");
 
   // TEMP DATA
   const currentCity = {
@@ -23,7 +27,14 @@ function City() {
   //eslint-disable-next-line
   const { cityName, emoji, date, notes } = currentCity;
 
-  return <h1>City {id}</h1>;
+  return (
+    <>
+      <h1>City {id}</h1>
+      <p>
+        Position: {lat}, {lng}
+      </p>
+    </>
+  );
   // return (
   //   <div className={styles.city}>
   //     <div className={styles.row}>
