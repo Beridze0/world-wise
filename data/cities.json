@@ -35,6 +35,30 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Saint-Hernin",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2025-07-09T17:42:01.471Z",
+      "notes": "TEST\n",
+      "position": {
+        "lat": "48.17885568288288",
+        "lng": "-3.6049510027795755"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Luccombe",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2025-07-09T17:44:01.376Z",
+      "notes": "",
+      "position": {
+        "lat": "51.178292205599156",
+        "lng": "-3.5837788456758854"
+      },
+      "id": 98443199
     }
   ]
 }
