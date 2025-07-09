@@ -13,18 +13,6 @@
       "id": 73930385
     },
     {
-      "cityName": "Madrid",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
-      "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
-      },
-      "id": 17806751
-    },
-    {
       "cityName": "Luccombe",
       "country": "United Kingdom of Great Britain and Northern Ireland (the)",
       "emoji": "🇬🇧",
@@ -35,6 +23,18 @@
         "lng": "-3.5837788456758854"
       },
       "id": 98443199
+    },
+    {
+      "cityName": "Marco de Canaveses",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2025-07-09T20:48:48.530Z",
+      "notes": "",
+      "position": {
+        "lat": "41.077397565977925",
+        "lng": "-8.265031160260563"
+      },
+      "id": 98443200
     }
   ]
 }
