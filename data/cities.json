@@ -25,30 +25,6 @@
       "id": 17806751
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
-      "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
-      },
-      "id": 98443197
-    },
-    {
-      "cityName": "Saint-Hernin",
-      "country": "France",
-      "emoji": "🇫🇷",
-      "date": "2025-07-09T17:42:01.471Z",
-      "notes": "TEST\n",
-      "position": {
-        "lat": "48.17885568288288",
-        "lng": "-3.6049510027795755"
-      },
-      "id": 98443198
-    },
-    {
       "cityName": "Luccombe",
       "country": "United Kingdom of Great Britain and Northern Ireland (the)",
       "emoji": "🇬🇧",
